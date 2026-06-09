@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chipper-tartufo-29110d.netlify.app/sitemap.xml
